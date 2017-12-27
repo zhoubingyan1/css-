@@ -1,7 +1,7 @@
 # css-
 resetcss + resetsass + commoncss等
 
-# 1.设置 position:relative; 加上zoom:1解决ie下的定位位置。
+1.设置 position:relative; 加上zoom:1解决ie下的定位位置。
 
 # 2.IE67中定位溢出不动，只需要在有滚动条的容器上也设置相对定位即可。
 
